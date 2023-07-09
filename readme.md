@@ -1,5 +1,6 @@
-### API para treino de programação
-- Retorna dados de obras de arte abstratas
+# API
+### PHP
+### Retorna dados de obras de arte abstratas (id, título, autoria, ano, descrição e o nome do arquivo com a imagem) 
 
 #### Endpoints
-- GET **/quadros** : Retorna os dados dos quadros(id,título,autoria,ano,descrição e o nome do arquivo com a imagem) 
+- **/quadros** 
